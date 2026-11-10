@@ -98,8 +98,8 @@ if (verdict.isThreat) throw new Error(`Blocked by Vernier: ${verdict.threatType}
 
 ```bash
 # Clone the repository
-git clone https://github.com/A-Raphie/vernier.git
-cd vernier
+git clone https://github.com/A-Raphie/Vernier.git
+cd Vernier
 
 # Install dependencies
 bun install
